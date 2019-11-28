@@ -56,4 +56,4 @@ Stronger WHG. Much, much, MUCH stronger WHG. Turns the pathetic old WHG into the
 ## Update and overhaul of Lazerwei's Complex3s Mod
 Complex3s adds a slick method to create an entire production chain - within a single mega station.
 Unfortunately, the original attempted to stack stations onto each other, and was just a lag machine overall.
-I aim to fix that.
+I plan to change that.
