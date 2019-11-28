@@ -1,14 +1,13 @@
 # 420AvorionMods
 Avorion mods created/updated by me
 
-Planned Mods:
 
-Variable Equipment Docks
+##Planned Mods:
 
+#Variable Equipment Docks
 A simple mod to build upon <insert info here>'s <modname>. Extends the original to add more of all types equips, and a touch of shear randomness.
   
-Station Immunity
-
+#Station Immunity
 Grants adds immunity to AI stations. Configurable to add the same to player stations.
 
 Station Cargo Tweak
