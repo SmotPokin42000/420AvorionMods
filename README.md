@@ -13,7 +13,7 @@ Grants adds immunity to AI stations. Configurable to add the same to player stat
 ### Station Cargo Tweak
 Adds a minimum amount of cargo bays for world gen. Also configurable to allow more cargo per good.
 
-### Efficieny Up^^^
+### Efficiency Up^^^
 Makes mining/salvaging turrets able to get efficiency levels above 100%. Adjustable
 
 ### Stronger Randoms
