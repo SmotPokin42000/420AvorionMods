@@ -13,9 +13,6 @@ Grants adds immunity to AI stations. Configurable to add the same to player stat
 ### Truncated Cooldowns(TC)
 Adjusts cooldowns on Swoks and the AI to enable quick farming without having to relog. Also alters the cooldown on the wormhole guardian. 
 
-### Station Cargo Tweak(SCT)
-Adds a minimum amount of cargo bays for world gen. Also configurable to allow more cargo per good.
-
 ### Efficiency Up^^^(EU)
 Makes mining/salvaging turrets able to get efficiency levels above 100%. Adjustable
 
