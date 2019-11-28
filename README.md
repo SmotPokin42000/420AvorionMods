@@ -6,6 +6,9 @@ A compendium of piecemeal standalone Avorion mods.
 
 ### Variable Equipment Docks(VED)
 A simple mod to build upon TheDeadlyShoe's 'More Turrets at Equipment Docks'. Extends the original to add more of all types equips, and a bit of RNG.
+
+### Buyable Empty Tokens(BET)
+Adds Empty Reconstruction Tokens to the equipment at a variable price.
   
 ### Station Immunity(SI)
 Grants adds immunity to AI stations. Configurable to add the same to player stations.
