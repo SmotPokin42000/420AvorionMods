@@ -1,11 +1,14 @@
 # 420AvorionMods
 A compendium of piecemeal standalone Avorion mods.
 
-
-## Planned Mods:
+# Released Mods:
 
 ### Variable Equipment Docks(VED)
-A simple mod to build upon TheDeadlyShoe's 'More Turrets at Equipment Docks'. Extends the original to add more of all types equips, and a bit of RNG.
+A simple mod to build upon TheDeadlyShoe's 'More Turrets at Equipment Docks'. Extends the original to add more of all types 
+equips, and a bit of RNG.
+
+
+# Planned Mods:
 
 ### Buyable Empty Tokens(BET)
 Adds up to one Empty Reconstruction Token to equipment docks at a variable price.
