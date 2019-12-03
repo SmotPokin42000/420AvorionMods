@@ -13,14 +13,11 @@ Adjusts cooldowns on Swoks and the AI to enable quick farming without having to 
 # Planned Mods:
 #### ***This is just a list ideas or in-progress mods; anything and everything is subject to change.
 
-### Buyable Empty Tokens(BET)
-Adds up to one Empty Reconstruction Token to equipment docks at a variable price.
+### Tokens(T)
+Variably adds up to one Empty Reconstruction Token to equipment docks at a variable price.
   
 ### Station Immunity(SI)
 Grants immunity to AI stations. Configurable to add the same to player stations.
-
-### Truncated Cooldowns(TC)
-Adjusts cooldowns on Swoks and the AI to enable quick farming without having to relog. Also alters the cooldown on the wormhole guardian. 
 
 ### Efficiency Up^^^(EU)
 Makes mining/salvaging turrets able to get efficiency levels above 100%. Adjustable
@@ -28,13 +25,13 @@ Makes mining/salvaging turrets able to get efficiency levels above 100%. Adjusta
 ### Stronger Randoms(SR)
 Xsotan and Pirate attacks get alot stronger towards 0:0. Stronger attacks = more salvage. I recommend this in tandem with the Reinforcements(RiF) mod to keep your factions alive.
 
-### Reinforcements(RiF)
+### Reinforcements(R)
 AI faction sector patrols now respawn. AI ships and stations also now regain health over time.
 
 ### More Bosses(MB)
 Additional bosses similar to Swoks, MEL, and the AI. Farmable for system mods.
 
-### Assasins(SASS)
+### Assasins(A)
 Adds scaling, high difficulty, assasination attempts upon the player. Has a configurable %chance to trigger per jump near at-war enemy sectors. No more rampaging in enemy territory with impunity. :}
 
 ### NPC Cargo Tweak(NCT)
