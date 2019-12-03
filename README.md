@@ -17,7 +17,7 @@ Adjusts cooldowns on Swoks and the AI to enable quick farming without having to 
 Adds up to one Empty Reconstruction Token to equipment docks at a variable price.
   
 ### Station Immunity(SI)
-Grants adds immunity to AI stations. Configurable to add the same to player stations.
+Grants immunity to AI stations. Configurable to add the same to player stations.
 
 ### Truncated Cooldowns(TC)
 Adjusts cooldowns on Swoks and the AI to enable quick farming without having to relog. Also alters the cooldown on the wormhole guardian. 
