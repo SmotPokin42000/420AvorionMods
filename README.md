@@ -7,8 +7,11 @@ A compendium of piecemeal standalone Avorion mods.
 A simple mod to build upon TheDeadlyShoe's 'More Turrets at Equipment Docks'. Extends the original to add more of all types 
 equips, and a bit of RNG.
 
+### Truncated Boss Cooldowns(TBC)
+Adjusts cooldowns on Swoks and the AI to enable quick farming without having to relog. Also alters the cooldown on the wormhole guardian. 
 
 # Planned Mods:
+#### This is just a list ideas or in-progress mods; anything and everything is subject to change.
 
 ### Buyable Empty Tokens(BET)
 Adds up to one Empty Reconstruction Token to equipment docks at a variable price.
