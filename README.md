@@ -10,11 +10,11 @@ equips, and a bit of RNG.
 ### Truncated Boss Cooldowns(TBC)
 Adjusts cooldowns on Swoks and the AI to enable quick farming without having to relog. Also alters the cooldown on the wormhole guardian. 
 
+### Station Immunity(SI)
+Grants invincibility to all stations. Protects stations from all forms of damage.
+
 # Planned Mods:
 #### ***This is just a list of ideas or in-progress mods; anything and everything is subject to change.
 
 ### Tokens(T)
 Variably adds up to one Empty Reconstruction Token to equipment docks at a variable price.
-  
-### Station Immunity(SI)
-Grants immunity to AI stations. Configurable to add the same to player stations.
