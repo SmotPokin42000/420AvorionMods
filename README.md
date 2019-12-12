@@ -5,7 +5,7 @@ A compendium of piecemeal standalone Avorion mods.
 
 ### Variable Equipment Docks(VED)
 Version 0.1 (0.28) 
-A simple mod to build upon TheDeadlyShoe's 'More Turrets at Equipment Docks'. Extends the original to add more of all types 
+A simple mod to build upon TheDeadlyShoe's 'More Turrets at Equipment Docks'. Extends the original to add more of all types of
 equips, and a bit of RNG.
 
 ### Truncated Boss Cooldowns(TBC)
